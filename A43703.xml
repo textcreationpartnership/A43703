@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at White-hall, on Sunday the 26th of October, 1690 by Charles Hickman.</title>
+            <author>Hickman, Charles, 1648-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43703</idno>
+            <idno type="STC">Wing H1900</idno>
+            <idno type="STC">ESTC R11429</idno>
+            <idno type="EEBO-CITATION">11823021</idno>
+            <idno type="OCLC">ocm 11823021</idno>
+            <idno type="VID">49613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at White-hall, on Sunday the 26th of October, 1690 by Charles Hickman.</title>
+                  <author>Hickman, Charles, 1648-1713.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Sin --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49613:1"/>
+            <pb facs="tcp:49613:1"/>
+            <p>A SERMON PREACHED Before the QUEEN, AT WHITE-HALL.</p>
+            <p>On <hi>Sunday</hi> the 26<hi rend="sup">th</hi> of <hi>October,</hi> 1690.</p>
+            <p>By <hi>CHARLES HICKMAN,</hi> D.D. Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>By Her Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49613:2"/>
+            <pb n="1" facs="tcp:49613:2"/>
+            <head>A SERMON Preached before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM IV. iv.</hi>
+                  </bibl>
+                  <p>Stand in awe, and ſin not; Commune with your own heart, and in your Chamber, and be ſtill.</p>
+               </q>
+            </epigraph>
+            <p>THE Holy Ghoſt who ſanctifies the hearts of Men, is mighty in operation; but then his Motions are unaccountable. He pier<g ref="char:EOLhyphen"/>ces like the lightning; but like the Wind he bloweth where he liſteth. And this is one cauſe why ſo many Men are the leſs ſollicitous to procure his Gifts, and neglect the means of their Salvation: They ſtand gazing when the good hour ſhall come,
+<pb n="2" facs="tcp:49613:3"/>
+that ſome kind light from Heaven ſhall convince them of their Errours, and ſome powerful influence ſhall reclaim their Sins; and in the mean while they give a looſe to their own Inclinations, and think they have no more to do.</p>
+            <p>But 'tis a dangerous and a great miſtake. For as all other excellencies in Man require induſtry and pra<g ref="char:EOLhyphen"/>ctice to bring them to Perfection; ſo Religion alſo, amongſt the reſt, is to be improv'd by exerciſe and ap<g ref="char:EOLhyphen"/>plication of Mind; and there is a certain Art of Ver<g ref="char:EOLhyphen"/>tue. Though the Principles of it were born within us, yet 'tis a diligent laborious Education that muſt make them ſerviceable and fit for uſe. The Foundation in<g ref="char:EOLhyphen"/>deed was laid by God, but for the Superſtructure we muſt be beholden to our ſelves.</p>
+            <p>And in this Art no Man was ever ſo well accom<g ref="char:EOLhyphen"/>pliſht as the Holy Pſalmiſt, nor ever left us ſo perfect Rules. The method which he here propoſes in my Text, is very excellent and worthy of our imitation; wherein he has diſcover'd to us the gradual progreſs which a good Man makes in this Art; the ſeveral ſteps and advances whereby he arrives to a maſtery in his profeſſion. As,</p>
+            <p n="1">I. That the great buſineſs of Religion is, to teach us <hi>not to ſin.</hi>
+            </p>
+            <p n="2">II. That the way not to ſin is, to <hi>ſtand in awe.</hi>
+            </p>
+            <p n="3">III. That this religious awe is to be wrought in us by <hi>Communing with our own hearts.</hi>
+            </p>
+            <p n="4">
+               <pb n="3" facs="tcp:49613:3"/>IV. That if we would have this Communication with our own hearts to be effectual, we muſt retire <hi>into our Chamber, and be ſtill.</hi>
+            </p>
+            <p n="1">I. The great buſineſs of Religion is to teach us <hi>not to ſin:</hi> to ſubdue our unruly Luſts, and reduce our troubleſome affections, and to bring every rebellious thought into ſubjection to the will of God: To re<g ref="char:EOLhyphen"/>ſtore Vertue to its proper place, and Reaſon to its due Command; and to recover the natural freedom of our Will, from the tyranny of our Paſſions, and the uſurpation of Vice.</p>
+            <p>There is nothing in Nature of greater moment to us than to form our minds aright; to keep a ſtrict hand upon our manners, and critically to confine our ſelves to the paths of Life. And yet there is no<g ref="char:EOLhyphen"/>thing in nature that requires greater pains. How eaſy is it for us to be drawn aſide upon the leſt intermiſſion of our care? and how hard is it to be reclaim'd again? If we would return, we find it a difficult, tedious thing; and yet the greateſt difficulty of all is, to find out our miſtake. For when we have gone ſo far aſtray, we are apt to loſe, not our way only, but our ſelves. We find ſome little ſatisfaction in roving about, and then never think of our Journeys End.</p>
+            <p>To correct this Extravagance of ours, and to keep us within the bounds of Wiſdom, is the proper work of Religion. 'Tis a great work indeed, as much as
+<pb n="4" facs="tcp:49613:4"/>
+all the Religion in the World can do, or rather more; and yet without Religion we can do nothing towards it. For Vice no ſooner takes poſſeſſion of our heart, but it depraves all our Faculties, diſarms our Will, and darkens our Underſtanding; and every ſin that debauches us, diſables us too. It ſeizes upon our affe<g ref="char:EOLhyphen"/>ctions firſt; and then how weak an oppoſition is our reaſon like to make, when our affections are engag'd againſt it?</p>
+            <p>And what is Man when he is brought unto the power of Luſt, but an impotent, abandon'd Creature; harraſs'd without and tortur'd within; and after a ſhameful Life here, condemn'd to a miſerable Life hereafter? How does Sin debaſe the Soul of Man, and make him degenerate from the great rule of his Crea<g ref="char:EOLhyphen"/>tion, and ſo forfeit his title to that happineſs for which God ſent him into the World? 'Tis an ill habit of Soul, like ill health unto the Body, that takes off the reliſh and enjoyment of all the other Bleſſings which we poſſeſs. 'Tis a Curſe which we have brought up<g ref="char:EOLhyphen"/>on our ſelves, and yet all our induſtry can never work it out; a burden which we have entail'd upon our Eſtate, and till this accurſed Entail be cut off, our eſtate it ſelf will be but a burden to us. What ſignifies all the Plenty, and Power, and Pleaſures of this World, to a Man that is going down in horrour and diſgrace to a wretched Portion in the next? It is but
+<pb n="5" facs="tcp:49613:4"/>
+like <hi>Achan</hi>'s Babyloniſh Garment, a goodly ſight, but <hi>an accurſed thing:</hi> and though he lookt upon it with a co<g ref="char:EOLhyphen"/>vetous, greedy eye at firſt, yet it ſoon brought him to a heavy heart, and adminiſter'd but ſorry comfort to him at his Execution.</p>
+            <p>Juſt ſuch are all the Enjoyments of a Sinner; his Guilt makes him always reſtleſs and unquiet, uneaſie in eve<g ref="char:EOLhyphen"/>ry poſture, and diſſatisfi'd in every place: and though he has worn out all the pleaſure of his Vice already, yet he is fain to beat over the ſame filthy Tracks a<g ref="char:EOLhyphen"/>gain; and in the loathſome repetition of his Sin, he flies for ſhelter againſt the terrible Convictions of his Conſcience.</p>
+            <p>Surely for a wicked Man to reflect upon the ſtate of his Soul, and conſider into what a helpleſs, forlorn condition he has brought himſelf, is enough to make him either aſham'd of his folly, or a-weary of his Life, <hi>and repent that ever he was made.</hi> To ſee how miſerably we have corrupted our ſelves, and defaced the glori<g ref="char:EOLhyphen"/>ous Image of God within us, is enough to make him alſo <hi>repent that he has made man.</hi> Our Luſts are now ſo interwoven with our nature, that we are grown into an intimacy with Vice, a familiarity with Perdition; and our Paſſions have got ſo much the aſcendant over us, that they are grown above the reach of reaſon, or any other human means.</p>
+            <p>In this miſerable loſt eſtate, whilſt we were ty'd
+<pb n="6" facs="tcp:49613:5"/>
+and bound with the Chain of our Sins, and by that Chain lead towards our deſtruction, God in his mercy inſtituted a holy Religion to ſet us free; to reſcue us from that Captivity, which our own Fault, and our Forefathers Folly had brought upon us, and once more to reſtore us to that Paradiſe of Innocency from whence we fell: And if we look upon Religion in its whole progreſs and extent, we ſhall find that this is its whole deſign.</p>
+            <p>For this it was that God reveal'd himſelf to the Pa<g ref="char:EOLhyphen"/>triarchs in ancient times, and convers'd with Men Face to Face, that he might inſtruct them in his holy Will, by his own Preſence, and teach them Vertue from the original.</p>
+            <p>For this it was that he appointed all the Sacrifices under the Law; namely, to purge his People from their Sins; till they had learnt the art of retaining their ſins in ſpite of all their Sacrifices; and then God cryed out, <hi>Bring me no more vain oblations.</hi>
+            </p>
+            <p>Then came our Saviour to ſhew us a more excel<g ref="char:EOLhyphen"/>lent way, and therefore this was the only deſign of the publication of the Goſpel too: not to indulge our ſloathful Vices, and give us a lazy Inheritance in the Kingdom of God; but by a ſevere Repentance to at<g ref="char:EOLhyphen"/>tone for our ſins paſt, and by an active Faith to preſerve us from them for the time to come; that we might improve our Vertue by the preaching of his Word;
+<pb n="7" facs="tcp:49613:5"/>
+and by the power of Prayer might bring it to ſome perfection.</p>
+            <p>Without this improvement all the attempts of the Goſpel are but thrown away upon us; our Faith is dead, and our Repentance vain; the preaching of God's Word is ineffectual, and our Prayers can have no return; As we increaſe in Knowledge, we do but increaſe our Sorrow; and the Sacraments themſelves, thoſe means of Grace which have been ſo often admi<g ref="char:EOLhyphen"/>niſter'd to us, will prove but ſo many aggravations of our Sins. So far as we have amended our Lives, ſo far are we advanc'd in Chriſtianity; but to expect Sal<g ref="char:EOLhyphen"/>vation upon any other terms, is impoſing upon our ſelves, and mocking of our God.</p>
+            <p>To think, with ſome, that a ſuperficial attendance at the Altar, an outward compliance with the for<g ref="char:EOLhyphen"/>malities of Religion will ſerve our turn, is ſuch a ſlight Notion of religious Duty, as would diſparage the worſhip of a Heathen Idol. To fanſie, with o<g ref="char:EOLhyphen"/>thers, that an implicite Faith will make us whole, and that we ſhall be ſaved by believing as the Church be<g ref="char:EOLhyphen"/>lieves; is making our Religion to be we know not what, and expecting to be ſav'd we know not why. Nay, to ſuppoſe, that any Faith whatſoever can do us good, but only that which works a Reformation; to imagine, that a ſtrong preſumption can make us Saints, in ſpite of all our ſins, is like the reſt, an ab<g ref="char:EOLhyphen"/>ſurd
+<pb n="8" facs="tcp:49613:6"/>
+Opinion devis'd by wicked Men, to delude the World with a ſhew of Godlineſs, and under that co<g ref="char:EOLhyphen"/>lour to diſguiſe a wicked Life.</p>
+            <p>St. <hi>Peter</hi> tells us, <hi>There is none other name under Heaven given unto man, whereby we muſt be ſaved, but only the name of Jeſus Chriſt:</hi> And St. <hi>Paul</hi> aſſures us, that <hi>in Jeſus Chriſt, neither Circumciſion availeth any thing, nor uncircumciſion, but only a new Creature.</hi> It is not holding with this or the other Church; neither the uſing, nor the forbearing of any Rites or Ceremonies, though it be by Gods own appointment, that can entitle us to the benefits of the Goſpel, without the Concurrence of an indu<g ref="char:EOLhyphen"/>ſtrious Vertue, and an obedient Life. <hi>He hath ſhewed thee, O man, what is good; and what does the Lord require of thee, but to do juſtly, to love mercy, and to walk humbly with thy God.</hi>
+            </p>
+            <p>This is our duty; here lies the main ſtreſs of our Religion; for this it was that <hi>God ſpake in times paſt to our Fathers by the Prophets;</hi> for this it was that he ſent at laſt his own Son into the World; and by this teſt we muſt know whether we are his Diſciples: for whatever Doctrine does not naturally lead us to new<g ref="char:EOLhyphen"/>neſs of Life, is not the Wiſdom of God from above, but the vain ſuggeſtion of our own Luſt, or the falſe inſinuation of the Devil. Thus we ſee that the great buſineſs and concern of Man is to preſerve himſelf from Sin, and yet againſt ſin we have no Antidote
+<pb n="9" facs="tcp:49613:6"/>
+but in Religion. How Religion comes to work this Cure upon us, is the</p>
+            <p>Second thing obſervable in my Text. That we may learn <hi>not to ſin,</hi> it teaches us <hi>to ſtand in awe.</hi> We have already ſeen what a powerful influence our Paſ<g ref="char:EOLhyphen"/>ſions have upon us; how they lead us into Vanity, and drive us into Sin, and do ſo tyrannize over our Rea<g ref="char:EOLhyphen"/>ſon, that we have no remedy left, but to combate one Paſſion with another, and by a Religious Fear, to overcome the extravagance of a ſenſleſs Joy. We cannot chuſe alſo but perceive how ſubtily Luſt inſi<g ref="char:EOLhyphen"/>nuates itſelf into our affections, and by degrees gets the dominion over us: how artificially it cloſes in with our Fleſh, and ſo overtops our Spirit, that we ſtand in need of ſome ſupernatural aſſiſtance to ſub<g ref="char:EOLhyphen"/>due it, and all the ſuccours of Religion are little e<g ref="char:EOLhyphen"/>nough to caſt it out.</p>
+            <p>Some may think perhaps that natural Religion it ſelf, thoſe notions of a God, which are born and bred within us, and are ſo deeply imprinted in the hearts of all Mankind, ſhould be ſufficient to ſecure our Vertue, and force us to <hi>ſtand in awe.</hi> But by uni<g ref="char:EOLhyphen"/>verſal experience we find, that theſe notions are apt to degenerate into ſuperſtition; and ſuperſtition leaves us naked and expos'd only to our fears, but takes a<g ref="char:EOLhyphen"/>way all our ſecurity.</p>
+            <p>Others perhaps may conceive, that our own ratio<g ref="char:EOLhyphen"/>nal
+<pb n="10" facs="tcp:49613:7"/>
+fears, the neceſſary ſenſe of our weakneſs, and the natural apprehenſion of our danger, might be a ſuffi<g ref="char:EOLhyphen"/>cient guard unto us, and teach us to avoid thoſe pra<g ref="char:EOLhyphen"/>ctices which do but weaken and expoſe us more; but what can our nature do when 'tis corrupted it ſelf, and grown impotent and unable to relieve us. Nay what is worſe, 'tis grown obſtinate and perverſe, and moſt commonly takes part againſt us. For though our reaſon ſometimes keeps us in, and confines us to the Rules of Vertue; yet how often does Paſſion break the Chain, and turn us looſe to our own inventions.</p>
+            <p>Others there are who depend upon their own honour for the ſecurity of their Vertue, and would have us depend upon it too. But alas, what is the honour of a Man when his Religion is loſt? it is but <hi>the ſtaff of a broken reed,</hi> that has juſt ſtrength enough to pierce through our hand, but not enough to ſupport our Body.</p>
+            <p>In ſhort, there is nothing but an awful regard for God, and a juſt reſpect for his holy Attributes, that can effectually put a reſtraint upon us, and over-rule the violence of our Paſſions; and this <hi>awe</hi> we owe purely to our Religion, which for that very reaſon is call'd <hi>the fear of God,</hi> Gen. 20.11.</p>
+            <p>To what purpoſe elſe did God reveal himſelf to the Patriarchs and Prophets of old, but to put this fear of his name into their hearts? and what other uſe but
+<pb n="11" facs="tcp:49613:7"/>
+this did they make of thoſe his Revelations? <hi>We ſhall ſurely die,</hi> ſays one, <hi>for we have ſeen the Lord. Wo is me, for I am undone,</hi> ſays another, <hi>for I am a man of unclean Lips, and mine eyes have ſeen the King the Lord of Hoſts.</hi>
+            </p>
+            <p>To what purpoſe did God appoint the Sacrifices under the Law, but to give us a dreadful inſtance, that death is the natural conſequence of our Sins, a neceſſary tribute which we owe to his Juſtice, though his Mercy allows us to commute for the puniſhment, and the Beaſt ſuffers for the Man's offence?</p>
+            <p>What is the meaning of all the Rites and Ceremo<g ref="char:EOLhyphen"/>nies of Worſhip, but that the ſenſe of our Sins teaches us to keep our diſtance; and this appointed diſtance makes us the more ſenſible of our Sins. Theſe are the bounds which God has ſet about his holy Mount, the neceſſary fences of our devotion, that we might not rudely and familiarly <hi>break through upon the Lord, and periſh</hi> in our uncleanneſs.</p>
+            <p>Nay what other deſign had God in impoſing Reli<g ref="char:EOLhyphen"/>gious Worſhip it ſelf upon us (which is more particu<g ref="char:EOLhyphen"/>larly call'd in Scripture the fear of God, 2 <hi>Kings</hi> 17.28.) but that it might bring us to a religious <hi>awe,</hi> that having God more immediately in our thoughts, and all his holy Attributes before our Eyes, we might learn to purify our ſelves, even as he is pure; and to abhor thoſe ſins of ours that make us unworthy of his preſence. 'Tis this worſhip that ſtrikes a reverence
+<pb n="12" facs="tcp:49613:8"/>
+into us, and ſets us as it were before Gods Tribunal, where the ſight of his Majeſty muſt needs affect us with a ſorrowful ſenſe of our own Corruptions, and this godly ſorrow will ſoon bring us to Repentance.</p>
+            <p>With what other intention do we meet here in our Religious Aſſemblies; to what purpoſe do we attend to the word of God, but to work our Souls into pious reſolutions, and to improve thoſe reſolutions into an actual amendment of our Lives, that when the Judg<g ref="char:EOLhyphen"/>ments of God are here declared unto us, the Ven<g ref="char:EOLhyphen"/>geance which he denounces againſt our Sins, <hi>we may hear and fear, and do no more ſuch wickedneſs amongſt us.</hi>
+            </p>
+            <p>There is indeed an antipathy in our nature againſt this manner of correction; and as we were born free, ſo we deſire to preſerve our liberty, and look upon all fear as a ſervile thing. Had we preſerv'd our Innocency, we might have maintain'd our freedom ſtill, but where there is ſin there muſt be puniſhment, and where there is puniſhment there will be fear.</p>
+            <p>Nay 'tis our happineſs that we have this Curb up<g ref="char:EOLhyphen"/>on us, for fear is now become a neceſſary qualification in Man, not only to preſerve his Vertue, but to ac<g ref="char:EOLhyphen"/>compliſh his Nature too. 'Tis this that muſt give weight and moment to our thoughts, and poize our Souls, which are light and airy, and full of Vanity of themſelves, and require ſuch grave ſerious reflections to make them ſteady and conſiderate.</p>
+            <p>
+               <pb n="13" facs="tcp:49613:8"/>There is a giddy heedleſs intemperate Spirit in the generality of Mankind, which nothing but Religion can fix; nothing but the fear of God can humble. There is a ſort of Men whom Mercies only encour<g ref="char:EOLhyphen"/>age to be more wanton ſtill: indulgence does but make them arrogant; and as they are untractable to all gentle means; ſo nothing but a ſtrict rein, and a heavy hand, can bring them into order. But this Diſcipline will certainly reclaim them: divine wor<g ref="char:EOLhyphen"/>ſhip muſt needs inſpire us with diviner thoughts. For how dare we offend in the very face of an angry God? how can we provoke him any more, when we ſee his hand is already lifted up againſt us; and, for ought we know, the very next provocation may bring it down in vengeance upon our heads?</p>
+            <p>But if this is true; if the fear of God is able to pro<g ref="char:EOLhyphen"/>duce ſuch wonderful effects, to turn the tide of our af<g ref="char:EOLhyphen"/>fections, reſtrain the over-flowing of our Luſts; and ſay to our unruly Paſſions, <hi>thus far ſhall ye go and no farther.</hi> If Religious Worſhip neceſſarily puts an awe upon us, and that awe naturally reſtrains us from committing ſin; it may be objected, How comes it then to paſs, that notwithſtanding the frequency and ſolemnity of religious worſhip, yet ſo many Men lead irreligious Lives, that they can frequent the Altar of God, and leave their Sacrifices there, but carry their Sins back again to the place from whence they came?</p>
+            <p>
+               <pb n="14" facs="tcp:49613:9"/>'Tis pity indeed that ſuch an objection ſhould be made; but to our ſhame we muſt confeſs, that there is too much reaſon for it; and we muſt needs perceive, that this non-performance on our parts, does effectu<g ref="char:EOLhyphen"/>ally bring a reproach upon our Religion; and yet the fault is not in our Religion, but in our ſelves: The beſt Medicine in nature may fail us, if our Bodies are not well prepar'd. And the beſt Religion in the World may be ineffectual, if we do not come to it with a due preparation of Mind. If therefore we find, that the publick worſhip of God does not make us <hi>ſtand in awe,</hi> we muſt call in the help of our own private Devotion, and this brings me to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>Third Rule obſervable in my Text. We muſt <hi>commune with our own hearts.</hi> 'Tis a great Art and Ex<g ref="char:EOLhyphen"/>cellence in Man, to know how to Think: To look into the nature of humane Actions; to weigh well the Cauſes, and compare the conſequence of things, and to exerciſe that reaſon which God has put into us, on purpoſe for the government and direction of our Lives. 'Tis what he himſelf will exact from us at the great Account; when he will certainly judge of all our works, according to this very Standard which he has put into our hearts.</p>
+            <p>We may neglect this duty if we pleaſe; and as we our ſelves make no ſcruple of what we do; ſo we may think that God alſo will accept of all our actions in the
+<pb n="15" facs="tcp:49613:9"/>
+groſs; but when the fatal doom ſhall come, he will bring them all to that righteous Balance, where there are no grains of allowance to be made. Since God has given us a diſcerning Faculty to diſtinguiſh be<g ref="char:EOLhyphen"/>tween good and evil, what ſtrange perverſeneſs is it in us to return it back upon his hands, as a uſeleſs thing, and manage our Lives without it? to commit our ways to blind Chance, and truſt Fortune for the event?</p>
+            <p>When God reckons with the World for Sin, Igno<g ref="char:EOLhyphen"/>rance indeed may be ſome excuſe, but inconſiderate<g ref="char:EOLhyphen"/>neſs is none at all: 'tis a fault it ſelf, and an aggrava<g ref="char:EOLhyphen"/>tion of all thoſe faults that follow from it. We might have known our duty, but we purpoſely ſhut our Eyes, for fear the light ſhould be offenſive to us. The temptation was inviting, and the bait was plea<g ref="char:EOLhyphen"/>ſant, and therefore we would not ſtand to deliberate upon the thing, but boldly ſwallowed the Bait, with<g ref="char:EOLhyphen"/>out conſidering how we could digeſt the Hook.</p>
+            <p>We think perhaps there is no reſiſting a temptation when it comes upon us ſo powerfully recommended. We think ſo becauſe we are loath to try; and 'tis ea<g ref="char:EOLhyphen"/>ſier indeed to yield, but 'tis much ſafer to reſiſt, and more honourable too. We cannot tell what efficacy and power there may be in our Soul, till we come to put it to the ſtreſs. We know not, but we may be able to ſtand it out; or if we ſhould chance to fall at
+<pb n="16" facs="tcp:49613:10"/>
+laſt, yet then our Vertue has ſomething to plead in its behalf; we did what Men could do, and then no doubt but God will ſupply the reſt. If we are infirm <hi>he knows whereof we are made;</hi> and does not expect from us the ſteadineſs of a Rock, when <hi>he remembers that we are but duſt.</hi>
+            </p>
+            <p>There is a natural frailneſs and inconſiſtency in our <hi>Fleſh,</hi> which makes us always ſubject to fall away; but yet God has given us a <hi>Spirit,</hi> that in ſome mea<g ref="char:EOLhyphen"/>ſure is able to ſupport us; and where 'tis not, the <hi>Holy Spirit</hi> will help us out. But they who will contribute nothing towards their own ſafety, muſt inevitably fall. If we let our Spirits languiſh for want of uſe, re<g ref="char:EOLhyphen"/>fuſe to put them upon their trial, or to perform that part which God has put into our own Power, we have little reaſon to expect that the Holy Ghoſt ſhould take upon himſelf the whole concern and trouble of our Salvation.</p>
+            <p>Therefore to comply with the Rule in my Text. Whenſoever we find our ſelves tempted unto Sin, and ſee our Vertue ſtrongly beſet from without, let us re<g ref="char:EOLhyphen"/>tire within our own Souls, <hi>Commune with our heart,</hi> and ſee what aſſiſtance we can fetch from thence. Let us deliberate with our ſelves what will be the conſe<g ref="char:EOLhyphen"/>quence of our Sin, and impartially examine the pre<g ref="char:EOLhyphen"/>ſent conveniences which we propoſe in it, and the in<g ref="char:EOLhyphen"/>conveniences which we know muſt follow from it;
+<pb n="17" facs="tcp:49613:10"/>
+and having ſet the one fairly againſt the other, let us prudently weigh the Pleaſure againſt the Pain, and ſee which has the over-balance.</p>
+            <p>As for inſtance, we would comply perhaps with ſome boiſtrous Paſſion, or gratify ſome extravagant deſire. Covetouſneſs, or Luſt, Ambition or Revenge, or ſome ſuch unruly Affection, is ever and anon attempting upon our Soul, and claiming the precedence of our Ver<g ref="char:EOLhyphen"/>tue. And to an unwary Man it cannot fail of many plau<g ref="char:EOLhyphen"/>ſible Arguments to plead in its behalf. That the deſire is natural, and the ſatisfaction great; that revenge is pleaſant, and ſtollen Waters ſweet; but that Vertue is a ſevere, melancholy inſtitution, an unnatural Diſci<g ref="char:EOLhyphen"/>pline, an unneceſſary reſtraint, that debaſes our Spi<g ref="char:EOLhyphen"/>rits, robs us of the enjoyment of our Youth, and is an entertainment proper only for a ſedentary, decrepit Age.</p>
+            <p>If theſe perſwaſions prevail, in all likelihood the Man is loſt, and never lives to that Age when Vertue comes in Faſhion. But if Vertue were allow'd to ſpeak for it ſelf, it would make a very good defence, where Vice ſhould be aſham'd to ſhew its Face. The time will come when we ſhall underſtand the force of <hi>Abraham</hi>'s Argument, <hi>My Son, remember that thou injoyedſt thy good things in thy life time, and</hi> Lazarus <hi>evil things; but now he is comforted, and thou art tormented.</hi> Then we ſhall ſee the difference between <hi>Abraham</hi>'s Boſom, and a
+<pb n="18" facs="tcp:49613:11"/>
+ſumptuous Feaſt; the ſhort tumultuous interrupted Entertainments of the one, compar'd with the ſpiri<g ref="char:EOLhyphen"/>tual Eternal Pleaſures of the other.</p>
+            <p>Nay that we may not go ſo high for a compariſon, we ſhall find the poor Man that lay begging at the Gate, in more happy condition than he that feaſted ſumptuouſly at the Table. Take him with all his Poverty and Wounds about him, yet his Faith and Vertue will make him whole, and his Conſcience af<g ref="char:EOLhyphen"/>fords him a better Feaſt, than all the rich Mans Eſtate can purchaſe. An honeſt faithful heart is a ſure Re<g ref="char:EOLhyphen"/>treat, where we may find ſafety and ſatisfaction too, againſt all the Calamities of this Life; and he that has ſo good a refuge, can never complain that he is deſtitute and forſaken. He carries his Comfort with him in his Breaſt, which can never be taken from him; whilſt the Sinner carries his torment there; and what gaiety ſoever may be in his outward ſhew, yet at his heart there grows <hi>a worm which will never die,</hi> and in his Entrails he has already kindled <hi>that fire which never goeth out.</hi>
+            </p>
+            <p>With ſuch conſiderations as theſe let us fortifie our Vertue in the time of Trial, &amp; when the tempter comes upon us with all his deceitful Colours, and flattering Promiſes, to put us into a ſtate of eaſe, and make us truly happy; let us not give credit to his words, but <hi>Commune with our own hearts,</hi> whether it be ſo or not.
+<pb n="19" facs="tcp:49613:11"/>
+When he tells us, as he did <hi>Eve</hi> before us, that <hi>we ſhall not die,</hi> let us conſider which is fitteſt for us to believe, the Father of Lyes, or the God of Truth. Surely where there is ſo vaſt a difference between the Com<g ref="char:EOLhyphen"/>petitours, there can be no difficulty in our determi<g ref="char:EOLhyphen"/>nation: No nicety of Judgment is here requir'd; no Grains and Scruples to decide the Cauſe; but the Competition lies between Light and Darkneſs, the Shadow and the Sun; all Vanity and Emptineſs on the one hand, all Glory and Subſtance on the other. So groſs and palpable is the difference, that we need not ſpend time to judg. Ask but our hearts, and our own hearts, deceitful as they are, cannot chuſe but give us a faithful Anſwer. Where the cauſe is of ſo great importance, and we have ſo little a way to go for a determination, who would think that Man ſhould be ſo negligent and remiſs, as to involve himſelf in dangerous Sins, fatal Errours, only for want of ask<g ref="char:EOLhyphen"/>ing himſelf one eaſie Queſtion?</p>
+            <p>But perhaps we have no leiſure for ſuch inquiries, our thoughts may be ſo taken up, and our Minds ſo full of other matters, that either we have not the heart to ask, or at leaſt have not the heart to Anſwer. Indeed there is nothing ſo apt to fill as Vanity, and no Man is more buſie than he that has leaſt to do. And yet one would think, that amidſt all the Croud of trifling Imaginations which flock about us, there
+<pb n="20" facs="tcp:49613:12"/>
+might be room left for one ſerious thought: But if not; if our Minds are ſo unfortunately prepoſſeſs'd, ſo deeply engag'd, that we find it difficult to draw them off, then we muſt apply the</p>
+            <p>Laſt rule in my Text; we muſt retire <hi>into our Cham<g ref="char:EOLhyphen"/>ber and be ſtill.</hi> There we may learn to compoſe our thoughts, and bring our ſelves to a better temper; give our Paſſions time to cool, and then our Affections quickly will be chang'd. There we may ſee our Sins ſtript of all their deceitful Garniture, the Vanity all worn off, and nothing but the vexation left; and ſo ghaſtly a Figure will our Vices make, that to abſtain from them will hardly appear a Vertue.</p>
+            <p>There is nothing like ſolitude and retirement to recollect our thoughts, and make us come unto our ſelves, after we have been ſeduced by converſation, and enchanted by the multitude. Whilſt we are in the World we muſt expect a whole torrent of evil Cuſtoms, and corrupted Manners to come upon us, and ſhall be in danger to be carried away with the tide: With ſuch a violent force does it overwhelm our Vertue, and over-power our Reaſon, that 'tis very difficult to bear up againſt it. But if we would have our hearts at our own command, we muſt re<g ref="char:EOLhyphen"/>tire out of the Croud, enter into our Cloſets, and ſometimes give our own ſedate thoughts leave to play their parts.</p>
+            <p>
+               <pb n="21" facs="tcp:49613:12"/>There may be Seeds of Vertue and Honour in us which we know not of; that have lain ſtifled all this while under the rubbige of the World, and choakt by other Mens inclinations againſt our own. When we have got our ſelves in private, then is the time to ranſack our hearts; to throw off all that lumber that has clogg'd our Religion, and give our Vertues room to grow. This is the only place to rally the ſcatter'd Forces of our Soul, to view all our ſtrength, and ſee what ſupplies are to be rais'd out of our own Spirits, and what recruits are to be begg'd from the Holy Spirit of God.</p>
+            <p>'Tis a ſhameful thing to think how long ſome Men can live, and yet never know themſelves. How they can be ſo earneſt in prying round about them, that they have no leiſure to look nearer home; ſo inquiſi<g ref="char:EOLhyphen"/>tive after other Mens affairs, and ſo much ſtrangers to their own: But the truth is, they ſuſpect the poverty of their ſtock, and therefore are loath to look how near it is to the bottom. To find out their own faults they think is all irkſome ungrateful pains; and to ſearch for their own Vertues perhaps is not worth the while. And hence it is that they dare not reflect upon their own actions, nor ſo much as venture themſelves alone, for fear their ſins ſhould ſtare them in the face, and for that little knowledge which they have of themſelves, they are commonly beholden to the ſtan<g ref="char:EOLhyphen"/>dters by.</p>
+            <p>
+               <pb n="22" facs="tcp:49613:13"/>But whatever our condition is, 'tis good to be ac<g ref="char:EOLhyphen"/>quainted with it in time, that we may be able to ſup<g ref="char:EOLhyphen"/>ply what is wanting, and reform what we find amiſs, and to examine the ſtate of our accounts before we come to give them up to an Impartial Judge. If there<g ref="char:EOLhyphen"/>fore we would know our ſelves, and have an exact ſurvey of our own eſtate, we muſt withdraw from the multitude, and ſtand alone: Retire into our Cloſet, and there we may learn to know, not our ſelves only, but our God. There we have an eaſie acceſs to Hea<g ref="char:EOLhyphen"/>ven; and whilſt we <hi>commune with our own hearts, and in our Chamber, and are ſtill,</hi> God himſelf is pleas'd to en<g ref="char:EOLhyphen"/>ter into the Conference with us, to aſſiſt our Con<g ref="char:EOLhyphen"/>templations, remove our Doubts, and encourage our Endeavours. And when we and our own hearts are met together again in his name, he will not fail to be in the midſt of us.</p>
+            <p>For ſuch Converſation as this, who would not ſet aſide all the Pomps and Vanities of the World, and think it his greateſt freedom to be ſo confin'd, his greateſt happineſs to be baniſht into Paradiſe? Here we cannot chuſe but look down with ſcorn upon our former ſinful delights, and with pity upon thoſe who know no better Recreations. When our retirement has wean'd us from that fondneſs which we had for the common road of practice, and our Cloſet ſhews us all the actions of Men in their own proper Colours,
+<pb n="23" facs="tcp:49613:13"/>
+our very inclinations will be alter'd, and we our ſelves ſhall wonder <hi>what pleaſure we could ever have in thoſe things whereof,</hi> upon ſecond, upon cooler thoughts, <hi>we are now aſham'd.</hi>
+            </p>
+            <p>When we have thus prepar'd and qualify'd our ſelves in private, then we may expect that our pub<g ref="char:EOLhyphen"/>lick devotion ſhall be effectual. But to come into the Houſe of God with all our vain imaginations and Worldly thoughts about us, is invading of his Preſence, and affronting of his Courts. 'Tis not only an in<g ref="char:EOLhyphen"/>decent, but a dangerous thing. God once ſet bounds about his holy Mount, that Men ſhould not break in upon him and periſh. Though the bounds are now removed, yet the reaſon of them ſtill remains; and ſo much ceremony we owe him at the leaſt, as to make our ſins keep a diſtance; not to touch his Ark with polluted hands, nor approach his Throne with Unſanctified Hearts: That we ſhould deck our Souls alſo in their beſt attire, when we come to preſent them before our Maker, and recommend our ſelves to his Acceptance, under the Ornament of a meek and vertuous Spirit; <hi>which is, in the ſight of God, of great price.</hi>
+            </p>
+            <p>When this is done, then is the time to go to the Altar, and confirm thoſe pious reſolutions which we began at home. Then the Word of God will come like good Seed upon a fruitful ground, and bring
+<pb n="24" facs="tcp:49613:14"/>
+forth a wonderful increaſe; then all our Prayers will make their own way to the Throne of Grace, and all bring us a good return. To conclude all in one word; The Church is the neareſt way to Heaven; but our Chamber is the only way to Church.</p>
+            <p>
+               <hi>God grant that we may all follow this way; and then, no doubt, but it will bring us to a happy end.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49613:14"/>
+            <head>Books Printed for <hi>Walter Kettilby,</hi> at the Biſhop's-Head in S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>BIſhop <hi>Overall</hi>'s Convocation Book MDCVI. concern<g ref="char:EOLhyphen"/>ing the Government of God's Catholick Church, and the Kingdoms of the whole World, 4<hi rend="sup">to</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Falkner</hi>'s <hi>Libertas Eccleſiaſtica,</hi> 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Vindication of Liturgies, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Chriſtian Loyalty, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Scott</hi>'s Chriſtian Life. In three Vol. 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Fowler</hi>'s <hi>Libertas Evangelica,</hi> 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>W. Allen</hi>'s Tracts, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Raymond</hi>'s Pattern of pure and undefiled Religion, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Expoſition of the Church Catechiſm.</item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Hesketh</hi>'s Piety, the beſt Rule of Orthodoxy, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Serious Exhortation to frequent Communion, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Caſe of eating and drinking unworthily, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>Faith and Practice of a Church of <hi>England</hi> Man, 12. The Third Edition.</item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Pelling</hi>'s Sermon before the King and Queen, <hi>Dec.</hi> 8. 1689.</item>
+               <item>—'s Vindication of thoſe that have taken the Oath, 4<hi rend="sup">to</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Lamb</hi>'s Dialogues between a Miniſter and his Pariſhi<g ref="char:EOLhyphen"/>oner, about the Lord's Supper, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Sermon before the King at <hi>Windſor.</hi>
+               </item>
+               <item>—'s Sermon before the Lord Mayor.</item>
+               <item>—'s Liberty of humane Nature, ſtated, diſcuſſed and limited.</item>
+               <item>—'s Sermon before the King and Queen, <hi>Jan.</hi> 19. 1689.</item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Grove</hi>'s Sermon before the King and Queen, <hi>June</hi> 1. 1690.</item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Jeffery</hi>'s Religion the Perfection of Man, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:49613:15"/>D<hi rend="sup">r</hi> 
+                  <hi>Worthington</hi> of Reſignation, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Kidder</hi>'s Chriſtian Sufferer, ſupported, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Sharp</hi>'s Diſcourſe concerning Conſcience; The firſt Part; wherein an account is given of the Nature, and Rule, and Obligation of it. And the caſe of thoſe who ſeparate from the Communion of the Church of <hi>England,</hi> as by Law eſtabliſhed, upon this pretence, that it is againſt their Con<g ref="char:EOLhyphen"/>ſcience to join in it, is ſtated and diſcuſſed.</item>
+               <item>—'s Diſcourſe of Conſcience: The ſecond Part; con<g ref="char:EOLhyphen"/>cerning a doubting Conſcience.</item>
+               <item>—'s Faſt-Sermon before the Houſe of Commons, <hi>April</hi> 11. 1679. on <hi>Revel.</hi> ii. 5.</item>
+               <item>—'s Duty and Happineſs of doing good, in two Ser<g ref="char:EOLhyphen"/>mons, the former Preached at the <hi>Yorkſhire</hi> Feaſt, <hi>Feb.</hi> 17. 1679. on <hi>Eccl.</hi> iii. 10. the other before the Lord Mayor at the <hi>Spittle, Apr.</hi> 14. 1680. on 1 <hi>Tim.</hi> vi. 17, 18, 19.</item>
+               <item>—'s Sermon at the Election of the Lord Mayor, <hi>Sept.</hi> 29. 1680. on <hi>Pſal.</hi> cxii. 4.</item>
+               <item>—'s Lent-Sermon at <hi>Whitehal, March</hi> 20. 1684. on <hi>Luke</hi> xvi. 31.</item>
+               <item>—'s Sermon before the Queen at <hi>Whitehall, Apr.</hi> 11. 1690. on <hi>Gal.</hi> v. 13.</item>
+               <item>—'s Faſt-Sermon before the Honourable Houſe of Commons, <hi>May</hi> 21. 1690. on <hi>Deut.</hi> v. 29.</item>
+            </list>
+            <p>Reflections on a French Teſtament, Printed at <hi>Bordeaux, An. Dom.</hi> MDCLXXXVI. Pretended to be Tranſlated out of the Latin into French, by the Divines of <hi>Louvain.</hi> By <hi>Richard Kidder,</hi> D. D. and Dean of <hi>Peterborough.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
